@@ -1,12 +1,7 @@
-body {
-    font-size: 24px;
-}
-.green {
-    color: blue;
-}
-.red {
-    color: green;
-}
+body {font-size: 24px;}
+body {background-image: linear-gradient(to right, #9b9b9b, #383737);}
+.green {color: blue;}
+.red {color: green;}
 .blue {
     color: red;
 }
